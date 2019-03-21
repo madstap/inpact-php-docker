@@ -6,4 +6,5 @@
 </head>
 <body>
   <h1>Hello docker!</h1>
+  <?php echo phpinfo() ; ?>
 </body>
